@@ -1,4 +1,4 @@
-Adina / Edad;Kasu positiboak / Positivos;Emakumezkoak: Kasu positiboak / Mujeres: Positivos;Gizonezkoak: Kasu positiboak / Hombres: Positivos;Biztanleria 2019 / Población 2019;Emakumezkoak: Biztanleria 2019 / Emakumezkoak: Población 2019;Gizonezkoak: Biztanleria 2019 / Gizonezkoak: Población 2019;100.000 biztanleko tasa  / Tasa por 100.000 habitantes;Emakumezkoak: 100.000 biztanleko tasa  / Mujeres: Tasa por 100.000 habitantes;Gizonezkoak: 100.000 biztanleko tasa  / Hombres: Tasa por 100.000 habitantes;Kasuen guztien gaineko % / % sobre el total de los casos;Hildakoak / Fallecidos(*);Emakumezkoak: Hildakoak / Mujeres: Fallecidos;Gizonezkoak: Hildakoak / Hombres: Fallecidos;Hilgarritasuna / Letalidad;Emakumezkoak: Hilgarritasuna / Letalidad;Gizonezkoak: Hilgarritasuna / Letalidad
+Edad;Positivos;PositivosMujeres;PositivosHombres;Población 2019;Población 2019Mujeres;Población 2019Hombres;Tasa por 100.000 habitantes;Tasa por 100.000 habitantesMujeres;Tasa por 100.000 habitantesHombres;% sobre el total de los casos;Fallecidos;FallecidosMujeres;FallecidosHombres;Letalidad;LetalidadMujeres;LetalidadHombres
 0 - 9 ;31648;15531;16116;190667;93085;97582;16598,57238;16684,7505;16515,34094;0,086123334;1;0;1;0,0000316;0;0,00024534
 oct-19;49507;24290;25216;210862;101692;109170;23478,38871;23885,85139;23097,92067;0,134722823;1;0;1;0,0000202;0;0,00014198
 20 - 29 ;52187;25814;26367;199866;98373;101493;26110,99437;26240,9401;25979,13157;0,142015876;5;3;2;0,00009581;0,00035191;0,00026031
@@ -8,12 +8,6 @@ oct-19;49507;24290;25216;210862;101692;109170;23478,38871;23885,85139;23097,9206
 60 - 69 ;32347;16078;16260;277319;145053;132266;11664,18457;11084,22439;12293,40874;0,088025515;405;127;278;0,012520481;0,018629896;0,04033077
 70 - 79 ;18816;9515;9301;210914;115791;95123;8921,171662;8217,39168;9777,866552;0,051203762;974;330;644;0,051764456;0,071707953;0,141321045
 80 - 89 ;13420;8185;5234;124844;77854;46990;10749,41527;10513,26843;11138,54011;0,03651969;2032;980;1052;0,151415797;0,19025432;0,334818587
-Más de 90 edo gehiago;5609;4219;1390;31500;23326;8174;17806,34921;18087,11309;17005,13824;0,015263706;1376;931;445;0,245320021;0,320592287;0,5
+Más de 90;5609;4219;1390;31500;23326;8174;17806,34921;18087,11309;17005,13824;0,015263706;1376;931;445;0,245320021;0,320592287;0,5
 No consta;3586;1836;1725;;;;;;;0,00975854;;;;;;
-GUZTIRA / TOTAL;367473;189002;178416;2199711;1132495;1067216;16705,51268;16688,992;16717,89029;1;5034;2464;2570;0,013698966;0,034065144;0,040745791
-(*) Laborategiak proba azkarren lote bat errepasatu behar izan du aurrez emandako emaitza batzuk zuzendu eta egiaztatuz. Ondorioz, emaitza horiei zegozkien datu batzuk zuzendu dira. ;;;;;;;;;;;;;;;;
-(*) Se han corregido datos relativos a los test rápidos debido a que el laboratorio ha revisado un lote de pruebas rápidas corrigiendo y validando algunos resultados previos.;;;;;;;;;;;;;;;;
-(*) Hildakoen kopurua agian ez dator bat egunen batean ospitaleetatik eta egoitzetatik datozen datuekin, bi informazio-sistemen artean dekalaje bat dagoelako, eta dekalaje hori hurrengo egunetan zuzenduko da.;;;;;;;;;;;;;;;;
-(*) El número de fallecidos puede que algún día no coincida con los datos que provienen de los hospitales y residencias  porque existe un decalaje entre ambos sistemas de información que se corregirá en días posteriores.;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;
-(*) 2021/12/30 (Ultima actualización / Azken eguneratzea);;;;;;;;;;;;;;;;
+TOTAL;367473;189002;178416;2199711;1132495;1067216;16705,51268;16688,992;16717,89029;1;5034;2464;2570;0,013698966;0,034065144;0,040745791
